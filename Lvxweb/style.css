@@ -1,70 +1,74 @@
+/* STILE LOGO */
 .navbar-brand{
     font-family: 'montserrat';
 }
-
+/* STILE JUMBOTRON */
 .jumbotron{
     background-image: url(https://digitalcrack.files.wordpress.com/2014/12/wpid-06060_bg.jpg?w=1200&h=800);
     background-size: cover;
     background-position: center;
     
     }
+/* STILE JUMBOTRON <P></P> */
 .jumbotron p{
     color: white;
 }
-
+/* STILE JUMBOTRON H1 */
 .jumbotron h1{
     font-family: montserrat;
     color: black;
     
 }
-
+/* STILE FOOTER_COPYRIGHT */
 .footer-copyright{
     background-color: aqua;
 }
-
+/* STILE FOOTER */
 .page-footer{
     background-color: lightgrey;
 }
-
+/* STILE H5 FOOTER */
 .page-footer h5{
     font-family: sans-serif;
 }
-
+/* STILE ICONA */
 .img-icon{
     padding-bottom: 20px;
 }
 
-
+/* STILE BOTTONE */
 .btn-outline-warning{
     letter-spacing: 4px;
 }
-
+/* STILE BOTTONE */
 .btn-success{
     font-family: montserrat;
 }
-
+/* STILE NEWSLETTER */
 .subscribe-area {
 background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
     padding-top: 1px;
 }
-
+/* STILE NEWSLETTER */
 .pb-50 {
     padding-bottom: 50px;
 }
+/* STILE NEWSLETTER */
 .pt-70 {
     padding-top: 70px;
 }
-
+/* STILE NEWSLETTER */
 .mb-15 {
     margin-bottom: 15px;
 }
-
+/* STILE NEWSLETTER */
 .subscribe-text span {
     font-size: 12px;
     font-weight: 700;
     color: #fff;
     letter-spacing: 5px;
 }
+/* STILE NEWSLETTER */
 .subscribe-text h2 {
     color: #fff;
     font-size: 36px;
@@ -72,14 +76,18 @@ background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
     margin-bottom: 0;
     margin-top: 6px;
 }
+/* STILE NEWSLETTER */
 .subscribe-wrapper {
     overflow: hidden;
 }
+/* STILE NEWSLETTER */
 .mb-15 {
     margin-bottom: 15px;
 }
+/* STILE NEWSLETTER */
 .subscribe-form {
 }
+/* STILE NEWSLETTER */
 .subscribe2-wrapper .subscribe-form input {
     background: none;
     border: 1px solid #fff;
@@ -94,7 +102,7 @@ background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
     width: 70%;
     cursor: pointer;
 }
- 
+ /* STILE NEWSLETTER */
 .subscribe2-wrapper .subscribe-form button {
     background: #ffff;
     border: none;
@@ -107,15 +115,16 @@ background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
     padding: 18px 46px;
     transition: all 0.3s ease 0s;
 }
+/* STILE NEWSLETTER */
 .subscribe2-wrapper .subscribe-form button i {
     font-size: 18px;
     padding-left: 5px;
 }
-
+/* BG PRINCIPALE */
 body{
     background-color: darkgrey;
 }
-
+/* BUTTON HOVER */
 .col-md-8 button:hover{
     background-color: azure;
 }
