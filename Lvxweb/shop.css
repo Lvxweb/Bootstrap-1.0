@@ -1,0 +1,75 @@
+.navbar-brand{
+    font-family: 'montserrat';
+}
+
+.demo{
+    color: orangered;
+    font-family: montserrat;
+    float: left;
+}
+
+.jumbotron{
+    background-image:url(https://wallpaperplay.com/walls/full/0/c/b/8972.jpg);
+    background-size: cover;
+}
+
+.jumbotron h1{
+    color: white;
+    font-family: montserrat;
+    letter-spacing: 1px;
+}
+.jumbotron p{
+    color: white;
+}
+
+.promozione{
+    color: darkorange;
+    float: right;
+    font-family: montserrat;
+    font-size: 25px;
+    align-content: center;
+}
+
+.less{
+    float: right;
+}
+
+
+.badge-secondary{
+    background-color: orange;
+}
+
+.promotell{
+    float: right;
+    color: white;
+    font-family: montserrat;
+}
+
+.footer-copyright{
+    background-color: aqua;
+}
+
+.page-footer{
+    background-color: lightgrey;
+}
+
+.page-footer h5{
+    font-family: sans-serif;
+}
+.img-icon{
+    padding-bottom: 20px;
+}
+
+body{
+    background: darkgrey;
+}
+
+
+
+
+.howto{
+    float: right;
+    padding-bottom: 40px;
+}
+
+
